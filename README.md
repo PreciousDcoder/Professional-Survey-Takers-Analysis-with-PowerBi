@@ -51,5 +51,5 @@ The insights derived from this survey and visualized in the Power BI dashboard w
   ## Conclusion
 The Power BI dashboard created from this survey data addresses a critical need for comprehensive and current insights into the professional landscape of tech workers in data science. By providing detailed, visualized data on earnings, job satisfaction, work-life balance, and demographics, this tool aims to enhance understanding and drive positive changes in the industry.
 
-Contributing
+## Contributing
 Contributions are welcome! Please create an issue or submit a pull request for any improvements or suggestions. Thank you!
